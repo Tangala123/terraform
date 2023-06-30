@@ -3,11 +3,11 @@ variable "location" {
 }
 
 variable "ami" {
- default = "ami-022e1a32d3f742bd8"
+ default = "ami-06b09bfacae1453cb"
 }
 
 variable "key" {
- default = "guru"
+ default = "prasanna"
 }
 
 variable "instance-type" {
